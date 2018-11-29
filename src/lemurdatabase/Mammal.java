@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ *Sean Luo 29/11/2018
+ *Mammal.java
+ *This is progrem calculates the Mammal.
  */
 
 package lemurdatabase;
